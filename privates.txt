@@ -1,2 +1,0 @@
-private1
-private2
