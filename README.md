@@ -5,4 +5,6 @@
 Прокси формата login:pass@ip:port
 
 В переменную event_id (в файле w3st claimer.py) нужно передавать айди веста.
-![image](https://github.com/viter0layer/W3ST-claimer/assets/37840750/f2760e0d-46ad-488d-8e20-f7091813a4e3)
+
+![image](https://github.com/viter0layer/W3ST-claimer/assets/37840750/2a608907-eca8-4876-9483-1bf4c98cd9b0)
+
